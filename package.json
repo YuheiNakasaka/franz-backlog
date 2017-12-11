@@ -1,0 +1,13 @@
+{
+  "id": "backlog",
+  "name": "Backlog",
+  "version": "1.0.0",
+  "description": "Unofficial Backlog plugin for Franz",
+  "main": "index.js",
+  "author": "Yuhei Nakasaka <nakasaka@gifmagazine.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gifmagazin.backlog.com/",
+    "hasNotificationSound": false
+  }
+}
